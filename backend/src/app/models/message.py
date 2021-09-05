@@ -27,7 +27,7 @@ class Message(db.Model):
     user_id = db.Column(db.Integer())
 
     ticket_id = db.Column(db.Integer, db.ForeignKey(
-        'ticket.ticket_id'), nullable=False)
+        'tickets.ticket_id'), nullable=False)
 
     def __repr__(self) -> str:
         return (

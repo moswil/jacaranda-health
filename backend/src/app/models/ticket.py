@@ -12,9 +12,9 @@ class Ticket(db.Model):
     phone = db.Column(db.String(20), nullable=False)
     intents = db.Column(db.String(20))
 
-    incoming_message = db.relationships(
+    incoming_message = db.relationship(
         'Message', backref='ticket', lazy=True)
-    outgoing_message = db.relationships(
+    outgoing_message = db.relationship(
         'Message', backref='ticket', lazy=True)
 
     def __repr__(self) -> str:
