@@ -1,0 +1,4 @@
+export DB_HOST=localhost
+export DB_DATABASE=books
+export DB_USER=root
+export DB_PASSWORD=you_wish
