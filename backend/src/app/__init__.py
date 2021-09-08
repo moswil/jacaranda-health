@@ -1,9 +1,10 @@
 import os
 
 
-from flask import Flask
+from flask import Flask, jsonify
 from flask_migrate import Migrate
 from flask_restx import Api
+from marshmallow import ValidationError
 
 from .models import db
 from .schema import ma
@@ -23,6 +24,12 @@ LOGGER.info(f'DB_URL: {os.getenv("DATABASE_URL")}')
 
 #
 db.init_app(app)
+
+
+@rest_api.errorhandler(ValidationError)
+def handle_validation_error(error):
+    return jsonify(error.messages), 400
+
 
 # add routes
 from . import routes  # noqa

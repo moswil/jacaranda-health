@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 
 from datetime import datetime
 from typing import Any, Dict, Tuple
@@ -51,8 +52,11 @@ def group_message_df(groupby_obj):
     return messages_df_list
 
 
-df_messages = read_excel_data(
-    './resources/Software_Developer_Interview_Assignment.xlsx', sheet_name='Messages')
+current_path = os.path.dirname(os.path.abspath(__file__))
+resources_path = os.path.join(current_path, 'resources')
+
+df_messages = read_excel_data(os.path.join(resources_path,
+                                           'Software_Developer_Interview_Assignment.xlsx'), sheet_name='Messages')
 
 df_messages['intent'] = df_messages.apply(
     lambda row: get_intent_and_description(row['body_text'])[0], axis=1)

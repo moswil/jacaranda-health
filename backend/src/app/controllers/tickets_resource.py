@@ -1,3 +1,4 @@
+from app.core.exceptions import DuplicateTicket
 from flask import request
 from flask_restx import Resource, abort
 from sqlalchemy.orm.exc import NoResultFound
@@ -87,6 +88,12 @@ class TicketsResource(Resource):
         ticket_json = request.get_json()
 
         LOGGER.info(f'Tickets JSON: {ticket_json}')
+
+        ticket_id = ticket_json['ticket_id']
+        is_ticket_id_present = TicketRepository.get_ticket_by_id(ticket_id)
+
+        if is_ticket_id_present:
+            raise DuplicateTicket('Ticket already exists')
 
         ticket_data = ticket_schema.load(ticket_json, session=db.session)
         ticket_data.save()

@@ -31,6 +31,15 @@ class Message(BaseModel):
     ticket_id = db.Column(db.Integer, db.ForeignKey(
         'tickets.ticket_id'), nullable=False)
 
+    def __init__(self, id, description, message_type, created, updated, user_id, ticket_id) -> None:
+        self.id = id
+        self.description = description
+        self.message_type = message_type
+        self.created = created
+        self.updated = updated
+        self.user_id = user_id
+        self.ticket_id = ticket_id
+
     def __repr__(self) -> str:
         return (
             f"**Message** "

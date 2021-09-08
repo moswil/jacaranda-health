@@ -16,5 +16,5 @@ class TicketSchema(ma.SQLAlchemyAutoSchema):
         # load_only = ('ticket_id',)
         ordered = True
 
-    # incoming_message = fields.Nested(MessageSchema, many=True)
-    # outgoing_message = fields.Nested(MessageSchema, many=True)
+    incoming_message = fields.Nested(MessageSchema, many=True)
+    outgoing_message = fields.Nested(MessageSchema, many=True)

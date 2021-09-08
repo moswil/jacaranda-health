@@ -1,0 +1,193 @@
+ticket_id,phone_number,sbj,intents
+2.0,2547900000,And had in was fabled seraphs nor it beyond,"[None, 'nutrition']"
+8.0,2547911111,No Ideal I Was Breastfeeding,"['pain', 'pregnancy_condition', 'headache']"
+9.0,2547222244,This is a ticket subject,"[None, 'ok_thanks', 'survey_response', 'baby_condition', 'qsurvey_positive', 'baby_general']"
+10.0,2572222224,"Was artless, been nor come bower the it","['fetal_movement', 'ok_thanks', 'swelling']"
+11.0,2547900000,And had in was fabled seraphs nor it beyond,"['qsurvey_positive', 'ok_thanks', 'pain']"
+12.0,2547911111,No Ideal I Was Breastfeeding,['survey_response']
+13.0,2547222244,This is a ticket subject,"['qsurvey_positive', 'pregnancy_anc_visits']"
+14.0,2572222224,"Was artless, been nor come bower the it","[None, 'pregnancy_condition', 'intercourse', 'ok_thanks', 'survey_response', 'pain', 'bleeding', 'baby_condition', 'qsurvey_positive', 'ifas', 'insurance', 'nutrition', 'swelling']"
+15.0,2547900000,And had in was fabled seraphs nor it beyond,"[None, 'qsurvey_positive', 'pregnancy_general', 'ok_thanks']"
+17.0,2547911111,No Ideal I Was Breastfeeding,['survey_response']
+18.0,2547222244,This is a ticket subject,"['breastfeeding', 'ok_thanks', 'survey_response', 'qsurvey_positive', 'edd', 'nutrition']"
+19.0,2572222224,"Was artless, been nor come bower the it","['pain', 'survey_response', 'nutrition']"
+20.0,, And had in was fabled seraphs nor it beyond,"[None, 'pregnancy_condition', 'bleeding']"
+21.0,2547911111,No Ideal I Was Breastfeeding,"['qsurvey_positive', 'survey_response', 'pregnancy_anc_visits']"
+22.0,2547222244,This is a ticket subject,"['qsurvey_positive', 'ok_thanks', 'survey_response']"
+23.0,2572222224,"Was artless, been nor come bower the it","[None, 'survey_response', 'pain', 'urination_uti', 'baby_condition', 'qsurvey_positive', 'baby_general', 'nutrition']"
+24.0,2547900000,And had in was fabled seraphs nor it beyond,"['qsurvey_positive', 'ok_thanks', 'baby_condition']"
+25.0,2547911111,No Ideal I Was Breastfeeding,"['intercourse', 'family_planning', 'insurance']"
+26.0,2547222244,This is a ticket subject,['nausea_vomiting']
+27.0,2572222224,"Was artless, been nor come bower the it","['pregnancy_condition', 'ok_thanks', 'fatigue_sleep', 'discharge', 'edd', 'baby_general', 'nutrition', 'intercourse', 'pregnancy_anc_visits', 'qsurvey_positive', 'fetal_movement', None, 'survey_response', 'bleeding', 'baby_condition', 'breastfeeding', 'headache', 'pain', 'pregnancy_general']"
+28.0,2572222224,"Was artless, been nor come bower the it","[None, 'qsurvey_positive']"
+29.0,2547222244,This is a ticket subject,"['pain', 'qsurvey_positive', 'pregnancy_anc_visits']"
+30.0,2572222224,"Was artless, been nor come bower the it","['labour_delivery', 'ok_thanks']"
+31.0,2547900000,And had in was fabled seraphs nor it beyond,"['pain', 'qsurvey_positive']"
+33.0,2547911111,No Ideal I Was Breastfeeding,"['qsurvey_positive', 'headache']"
+34.0,2547222244,This is a ticket subject,"[None, 'ok_thanks', 'survey_response', 'pregnancy_anc_visits', 'baby_condition', 'qsurvey_positive', 'discharge']"
+35.0,2572222224,"Was artless, been nor come bower the it",['qsurvey_positive']
+36.0,2547900000,And had in was fabled seraphs nor it beyond,"['fetal_movement', 'ok_thanks', 'survey_response']"
+37.0,2547911111,No Ideal I Was Breastfeeding,"[None, 'ok_thanks', 'survey_response', 'pregnancy_anc_visits', 'pain', 'baby_condition', 'qsurvey_positive', 'fetal_movement', 'baby_general', 'insurance', 'nutrition']"
+38.0,2547222244,This is a ticket subject,['survey_response']
+39.0,2572222224,"Was artless, been nor come bower the it","[None, 'ok_thanks', 'intercourse', 'survey_response', 'pregnancy_general', 'qsurvey_positive', 'discharge', 'nutrition', 'medication_general', 'swelling']"
+40.0,2572222224,"Was artless, been nor come bower the it",['qsurvey_positive']
+41.0,2547222244,This is a ticket subject,"[None, 'breastfeeding', 'ok_thanks', 'survey_response', 'pain', 'pregnancy_general', 'qsurvey_positive', 'discharge']"
+42.0,2572222224,"Was artless, been nor come bower the it",['ok_thanks']
+43.0,2547900000,And had in was fabled seraphs nor it beyond,"['qsurvey_positive', 'pregnancy_condition', 'edd', 'insurance']"
+44.0,2547911111,No Ideal I Was Breastfeeding,"['qsurvey_positive', 'pain', None, 'edd']"
+45.0,2547222244,This is a ticket subject,"['pain', 'bleeding', 'baby_condition']"
+46.0,2572222224,"Was artless, been nor come bower the it","[None, 'pregnancy_condition', 'ok_thanks', 'survey_response', 'qsurvey_negative', 'pregnancy_anc_visits', 'pain', 'pregnancy_general', 'urination_uti', 'family_planning', 'baby_condition', 'qsurvey_positive', 'discharge', 'fetal_movement', 'edd', 'nutrition', 'swelling']"
+48.0,2547900000,And had in was fabled seraphs nor it beyond,"[None, 'breastfeeding', 'ok_thanks', 'survey_response', 'pregnancy_anc_visits', 'pain', 'pregnancy_general', 'stool', 'nausea_vomiting', 'baby_condition', 'qsurvey_positive', 'fetal_movement', 'edd', 'baby_general']"
+49.0,2547911111,No Ideal I Was Breastfeeding,"['pain', 'qsurvey_positive', 'urination_uti', 'ok_thanks']"
+50.0,2547222244,This is a ticket subject,['edd']
+52.0,2572222224,"Was artless, been nor come bower the it","[None, 'pregnancy_condition', 'ok_thanks', 'survey_response', 'pain', 'baby_condition', 'qsurvey_positive', 'fetal_movement', 'labour_delivery', 'nutrition', 'swelling']"
+53.0,2547900000,And had in was fabled seraphs nor it beyond,['survey_response']
+54.0,2547911111,No Ideal I Was Breastfeeding,['pregnancy_anc_visits']
+56.0,2547222244,This is a ticket subject,['pain']
+59.0,2572222224,"Was artless, been nor come bower the it",['qsurvey_positive']
+60.0,2547900000,And had in was fabled seraphs nor it beyond,['ok_thanks']
+61.0,2547911111,No Ideal I Was Breastfeeding,['fetal_movement']
+62.0,2547222244,This is a ticket subject,['qsurvey_positive']
+63.0,2572222224,"Was artless, been nor come bower the it",['ok_thanks']
+64.0,2547900000,And had in was fabled seraphs nor it beyond,"[None, 'qsurvey_positive', 'fetal_movement']"
+65.0,2547911111,No Ideal I Was Breastfeeding,"[None, 'breastfeeding', 'heartburn', 'ok_thanks', 'pregnancy_condition', 'survey_response', 'pregnancy_anc_visits', 'pain', 'baby_condition', 'qsurvey_positive', 'nutrition']"
+66.0,2547222244,This is a ticket subject,"['fetal_movement', 'medication_general', 'ok_thanks', 'nutrition']"
+67.0,2572222224,"Was artless, been nor come bower the it","[None, 'ok_thanks', 'survey_response', 'pain', 'baby_condition', 'qsurvey_positive', 'discharge', 'baby_general', 'nutrition']"
+68.0,2547900000,And had in was fabled seraphs nor it beyond,"[None, 'heartburn', 'ok_thanks', 'intercourse', 'survey_response', 'pain', 'pregnancy_general', 'fatigue_sleep', 'baby_condition', 'qsurvey_positive', 'discharge', 'fetal_movement', 'edd', 'nutrition', 'insurance', 'swelling']"
+69.0,2547911111,No Ideal I Was Breastfeeding,"['qsurvey_positive', 'breastfeeding', 'nutrition', 'baby_condition']"
+70.0,2547222244,This is a ticket subject,"['pain', 'qsurvey_positive', 'edd', 'baby_condition']"
+71.0,2572222224,"Was artless, been nor come bower the it","['qsurvey_positive', 'stool', 'survey_response', None]"
+72.0,2572222224,"Was artless, been nor come bower the it","['qsurvey_positive', 'urination_uti', 'stool', 'pain']"
+73.0,2547222244,This is a ticket subject,"[None, 'ok_thanks', 'survey_response', 'pain', 'baby_condition', 'qsurvey_positive', 'fetal_movement', 'nutrition']"
+74.0,2572222224,"Was artless, been nor come bower the it","['fetal_movement', 'edd']"
+75.0,2547900000,And had in was fabled seraphs nor it beyond,"['ok_thanks', 'survey_response', 'pregnancy_anc_visits']"
+76.0,2547911111,No Ideal I Was Breastfeeding,['qsurvey_positive']
+77.0,2547222244,This is a ticket subject,"[None, 'pregnancy_condition', 'ok_thanks', 'survey_response', 'pregnancy_anc_visits', 'pain', 'nausea_vomiting', 'stool', 'baby_condition', 'qsurvey_positive', 'fetal_movement', 'edd', 'nutrition', 'swelling']"
+78.0,2572222224,"Was artless, been nor come bower the it","[None, 'ok_thanks', 'survey_response', 'pregnancy_anc_visits', 'bleeding', 'stool', 'baby_condition', 'qsurvey_positive', 'edd', 'baby_general', 'nutrition']"
+79.0,2547900000,And had in was fabled seraphs nor it beyond,"['pain', 'nutrition']"
+80.0,2547911111,No Ideal I Was Breastfeeding,"['pain', 'qsurvey_positive', None]"
+81.0,2547222244,This is a ticket subject,['edd']
+82.0,2572222224,"Was artless, been nor come bower the it","['pain', 'stool', 'ok_thanks', 'survey_response']"
+83.0,2572222224,"Was artless, been nor come bower the it","['qsurvey_positive', 'swelling']"
+84.0,2547222244,This is a ticket subject,"['qsurvey_positive', 'survey_response', 'baby_general']"
+85.0,2572222224,"Was artless, been nor come bower the it","['qsurvey_positive', 'pregnancy_general', 'fetal_movement', 'survey_response']"
+87.0,2547900000,And had in was fabled seraphs nor it beyond,"[None, 'ok_thanks', 'qsurvey_negative', 'qsurvey_positive', 'ifas']"
+88.0,2547911111,No Ideal I Was Breastfeeding,"['pregnancy_condition', 'ok_thanks', 'pain', 'baby_condition', 'qsurvey_positive', 'medication_general']"
+89.0,2547222244,This is a ticket subject,"[None, 'intercourse']"
+90.0,2572222224,"Was artless, been nor come bower the it","['discharge', 'labour_delivery']"
+91.0,2547900000,And had in was fabled seraphs nor it beyond,['baby_condition']
+92.0,2547911111,No Ideal I Was Breastfeeding,"['pregnancy_condition', 'baby_condition']"
+93.0,2547222244,This is a ticket subject,"['qsurvey_positive', 'baby_general', 'baby_condition']"
+94.0,2572222224,"Was artless, been nor come bower the it","[None, 'ok_thanks', 'survey_response', 'pregnancy_anc_visits', 'pain', 'qsurvey_positive']"
+95.0,2547900000,And had in was fabled seraphs nor it beyond,['nausea_vomiting']
+97.0,2547911111,No Ideal I Was Breastfeeding,"['pain', 'nutrition']"
+98.0,2547222244,This is a ticket subject,"[None, 'heartburn', 'ok_thanks', 'survey_response', 'pregnancy_anc_visits', 'pain', 'danger_signs', 'baby_condition', 'qsurvey_positive', 'fetal_movement', 'edd', 'nutrition', 'insurance']"
+99.0,2572222224,"Was artless, been nor come bower the it",['survey_response']
+100.0,2547900000,And had in was fabled seraphs nor it beyond,[None]
+101.0,2547911111,No Ideal I Was Breastfeeding,"['breastfeeding', 'ok_thanks', 'survey_response', 'pain', 'pregnancy_general', 'baby_condition', 'qsurvey_positive', 'fetal_movement']"
+102.0,2547222244,This is a ticket subject,"[None, 'qsurvey_positive', 'pregnancy_general']"
+103.0,2572222224,"Was artless, been nor come bower the it",['qsurvey_positive']
+104.0,2547900000,And had in was fabled seraphs nor it beyond,"['ok_thanks', 'nutrition', 'baby_condition']"
+105.0,2547911111,No Ideal I Was Breastfeeding,"[None, 'pregnancy_condition', 'ok_thanks', 'qsurvey_negative', 'survey_response', 'baby_condition', 'qsurvey_positive', 'fetal_movement', 'swelling']"
+106.0,2547222244,This is a ticket subject,['ok_thanks']
+107.0,2572222224,"Was artless, been nor come bower the it",['insurance']
+108.0,2547900000,And had in was fabled seraphs nor it beyond,['ok_thanks']
+109.0,2547911111,No Ideal I Was Breastfeeding,"['qsurvey_positive', 'ok_thanks']"
+110.0,2547222244,This is a ticket subject,"['qsurvey_positive', 'baby_general', 'baby_condition']"
+111.0,2572222224,"Was artless, been nor come bower the it","[None, 'insurance']"
+112.0,2572222224,"Was artless, been nor come bower the it","['survey_response', 'nutrition']"
+113.0,2547222244,This is a ticket subject,"[None, 'ok_thanks', 'survey_response', 'family_planning', 'qsurvey_positive', 'nutrition', 'insurance']"
+114.0,2572222224,"Was artless, been nor come bower the it","['breastfeeding', 'ok_thanks', 'nutrition', 'baby_condition']"
+115.0,2547900000,And had in was fabled seraphs nor it beyond,"[None, 'survey_response', 'pain', 'baby_condition', 'fetal_movement', 'labour_delivery', 'baby_general', 'nutrition']"
+116.0,2547911111,No Ideal I Was Breastfeeding,"['ok_thanks', 'survey_response']"
+369.0,2547222244,This is a ticket subject,['pain']
+926.0,2572222224,"Was artless, been nor come bower the it","[None, 'breastfeeding', 'intercourse', 'ok_thanks', 'survey_response', 'pain', 'baby_condition', 'qsurvey_positive', 'fetal_movement', 'edd', 'labour_delivery', 'insurance']"
+927.0,2547900000,And had in was fabled seraphs nor it beyond,"[None, 'ok_thanks', 'family_planning', 'stool', 'baby_condition', 'qsurvey_positive', 'nutrition']"
+928.0,2547911111,No Ideal I Was Breastfeeding,"['pain', 'discharge', 'ok_thanks', 'insurance']"
+929.0,2547222244,This is a ticket subject,"['pain', 'qsurvey_positive', 'ok_thanks']"
+930.0,2572222224,"Was artless, been nor come bower the it",['urination_uti']
+931.0,2572222224,"Was artless, been nor come bower the it","[None, 'ok_thanks', 'survey_response', 'pain', 'fetal_movement']"
+932.0,2547222244,This is a ticket subject,"['pain', 'qsurvey_positive', 'stool', 'ok_thanks']"
+933.0,2572222224,"Was artless, been nor come bower the it","['qsurvey_positive', 'ok_thanks', 'nutrition']"
+934.0,2547900000,And had in was fabled seraphs nor it beyond,"['qsurvey_positive', 'baby_condition']"
+935.0,2547911111,No Ideal I Was Breastfeeding,"[None, 'pregnancy_condition', 'fetal_movement', 'pain']"
+936.0,2547222244,This is a ticket subject,"[None, 'breastfeeding', 'pregnancy_condition', 'ok_thanks', 'intercourse', 'survey_response', 'qsurvey_negative', 'pain', 'bleeding', 'family_planning', 'qsurvey_positive', 'fetal_movement', 'edd', 'nutrition', 'swelling']"
+937.0,2572222224,"Was artless, been nor come bower the it",['ok_thanks']
+938.0,2547900000,And had in was fabled seraphs nor it beyond,"['qsurvey_positive', 'pain']"
+939.0,2547911111,No Ideal I Was Breastfeeding,"['pain', 'pregnancy_general']"
+940.0,2547222244,This is a ticket subject,"['ok_thanks', 'survey_response']"
+941.0,2572222224,"Was artless, been nor come bower the it","[None, 'ok_thanks', 'survey_response', 'qsurvey_negative', 'pain', 'pregnancy_general', 'baby_condition', 'qsurvey_positive', 'fetal_movement', 'baby_general', 'nutrition', 'swelling']"
+942.0,2547900000,And had in was fabled seraphs nor it beyond,"[None, 'ok_thanks', 'pain', 'nausea_vomiting', 'baby_condition', 'fetal_movement', 'nutrition', 'medication_general']"
+943.0,2547911111,No Ideal I Was Breastfeeding,['medication_general']
+944.0,2547222244,This is a ticket subject,"['ok_thanks', 'survey_response', 'baby_general']"
+945.0,2572222224,"Was artless, been nor come bower the it","['breastfeeding', 'pregnancy_general']"
+946.0,2547900000,And had in was fabled seraphs nor it beyond,"['labour_delivery', 'ok_thanks']"
+947.0,2547911111,No Ideal I Was Breastfeeding,['discharge']
+948.0,2547222244,This is a ticket subject,"[None, 'qsurvey_positive', 'family_planning']"
+949.0,2572222224,"Was artless, been nor come bower the it","['breastfeeding', 'ok_thanks', 'qsurvey_negative', 'survey_response', 'headache', 'baby_condition', 'qsurvey_positive', 'labour_delivery']"
+950.0,2547900000,And had in was fabled seraphs nor it beyond,"[None, 'fetal_movement']"
+951.0,2547911111,No Ideal I Was Breastfeeding,"['qsurvey_positive', 'ok_thanks']"
+953.0,2547222244,This is a ticket subject,"['labour_delivery', 'nausea_vomiting']"
+955.0,2572222224,"Was artless, been nor come bower the it","[None, 'ok_thanks', 'survey_response', 'pain', 'bleeding', 'fatigue_sleep', 'baby_condition', 'qsurvey_positive', 'discharge', 'fetal_movement', 'labour_delivery', 'nutrition']"
+957.0,2547900000,And had in was fabled seraphs nor it beyond,"['breastfeeding', 'edd']"
+958.0,2547911111,No Ideal I Was Breastfeeding,"[None, 'ok_thanks']"
+959.0,2547222244,This is a ticket subject,"['qsurvey_positive', 'intercourse']"
+960.0,2572222224,"Was artless, been nor come bower the it","['qsurvey_positive', 'discharge']"
+961.0,2572222224,"Was artless, been nor come bower the it","['breastfeeding', 'ok_thanks']"
+962.0,2547222244,This is a ticket subject,"['pain', 'ok_thanks']"
+963.0,2572222224,"Was artless, been nor come bower the it",['ok_thanks']
+964.0,2547900000,And had in was fabled seraphs nor it beyond,['survey_response']
+965.0,,No Ideal I Was Breastfeeding,"[None, 'pregnancy_general', 'labour_delivery', 'pregnancy_anc_visits']"
+969.0,2547222244,This is a ticket subject,['labour_delivery']
+970.0,2572222224,"Was artless, been nor come bower the it",['edd']
+971.0,2547900000,And had in was fabled seraphs nor it beyond,"['ok_thanks', 'pain', 'baby_condition', 'qsurvey_positive', 'labour_delivery', 'cs', 'nutrition']"
+972.0,2547911111,No Ideal I Was Breastfeeding,"[None, 'ok_thanks']"
+973.0,2547222244,This is a ticket subject,"['ok_thanks', 'survey_response']"
+974.0,2572222224,"Was artless, been nor come bower the it",['qsurvey_positive']
+975.0,2572222224,"Was artless, been nor come bower the it",['qsurvey_positive']
+976.0,2547222244,This is a ticket subject,"['qsurvey_positive', 'pregnancy_condition', 'ok_thanks', 'survey_response']"
+984.0,2572222224,"Was artless, been nor come bower the it","['ok_thanks', 'survey_response']"
+996.0,2547900000,And had in was fabled seraphs nor it beyond,['qsurvey_positive']
+997.0,2547911111,No Ideal I Was Breastfeeding,['ok_thanks']
+1022.0,2547222244,This is a ticket subject,"[None, 'survey_response']"
+1023.0,2572222224,"Was artless, been nor come bower the it","['breastfeeding', 'ok_thanks', 'survey_response', 'nutrition']"
+1024.0,2547900000,And had in was fabled seraphs nor it beyond,"['pregnancy_condition', 'ok_thanks', 'intercourse', 'survey_response', 'medication_general']"
+1029.0,2547911111,No Ideal I Was Breastfeeding,"[None, 'ok_thanks', 'pregnancy_anc_visits', 'pain', 'baby_condition', 'qsurvey_positive', 'fetal_movement', 'labour_delivery', 'insurance']"
+1030.0,2547222244,This is a ticket subject,"['stool', 'ok_thanks']"
+1034.0,2572222224,"Was artless, been nor come bower the it",['survey_response']
+1035.0,2547900000,And had in was fabled seraphs nor it beyond,['qsurvey_positive']
+1036.0,2547911111,No Ideal I Was Breastfeeding,[None]
+1037.0,2547222244,This is a ticket subject,['fetal_movement']
+1038.0,2572222224,"Was artless, been nor come bower the it","['ok_thanks', 'survey_response', 'danger_signs', 'baby_condition', 'qsurvey_positive']"
+1041.0,2547900000,And had in was fabled seraphs nor it beyond,"['qsurvey_positive', 'fetal_movement', None, 'pain']"
+1042.0,2547911111,No Ideal I Was Breastfeeding,['survey_response']
+1043.0,2547222244,This is a ticket subject,['baby_condition']
+1045.0,2572222224,"Was artless, been nor come bower the it","['pain', 'baby_condition']"
+1052.0,2547900000,And had in was fabled seraphs nor it beyond,"['qsurvey_positive', 'nausea_vomiting']"
+1072.0,2547911111,No Ideal I Was Breastfeeding,['pregnancy_condition']
+1080.0,2547222244,This is a ticket subject,"['fetal_movement', 'danger_signs', 'survey_response']"
+1081.0,2572222224,"Was artless, been nor come bower the it","[None, 'intercourse']"
+1082.0,2547900000,And had in was fabled seraphs nor it beyond,"['ok_thanks', 'survey_response', 'qsurvey_positive', 'labour_delivery', 'nutrition']"
+1090.0,2547911111,No Ideal I Was Breastfeeding,"['ok_thanks', 'qsurvey_positive', 'discharge', 'fetal_movement', 'cs']"
+1091.0,2547222244,This is a ticket subject,"[None, 'intercourse', 'ok_thanks', 'qsurvey_negative', 'qsurvey_positive', 'nutrition']"
+1092.0,2572222224,"Was artless, been nor come bower the it","['survey_response', 'qsurvey_negative', 'baby_general']"
+1096.0,2572222224,"Was artless, been nor come bower the it","[None, 'pregnancy_general', 'survey_response', 'pregnancy_anc_visits']"
+1097.0,2547222244,This is a ticket subject,"['discharge', 'survey_response']"
+1098.0,2572222224,"Was artless, been nor come bower the it","['qsurvey_positive', 'headache', 'qsurvey_negative', 'baby_condition']"
+1099.0,2547900000,And had in was fabled seraphs nor it beyond,['ok_thanks']
+1106.0,2547911111,No Ideal I Was Breastfeeding,"['pain', 'qsurvey_positive', 'survey_response']"
+1118.0,2547222244,This is a ticket subject,['danger_signs']
+1126.0,2572222224,"Was artless, been nor come bower the it","[None, 'insurance']"
+1127.0,2547900000,And had in was fabled seraphs nor it beyond,"['qsurvey_positive', 'baby_general']"
+1128.0,2547911111,No Ideal I Was Breastfeeding,"['fetal_movement', 'pregnancy_anc_visits']"
+1129.0,2547222244,This is a ticket subject,"['qsurvey_positive', 'fetal_movement', 'edd']"
+1130.0,2572222224,"Was artless, been nor come bower the it","[None, 'survey_response', 'pain', 'baby_condition', 'qsurvey_positive', 'labour_delivery']"
+1131.0,2572222224,"Was artless, been nor come bower the it",['discharge']
+1132.0,2547222244,This is a ticket subject,"['discharge', 'baby_condition']"
+1145.0,,"Was artless, been nor come bower the it","['qsurvey_positive', 'ok_thanks', 'survey_response']"
+1184.0,2547900000,And had in was fabled seraphs nor it beyond,"['discharge', 'fetal_movement', 'edd']"
+1186.0,2547911111,No Ideal I Was Breastfeeding,"['survey_response', 'baby_general']"
+1187.0,2547222244,This is a ticket subject,"[None, 'survey_response']"
+1188.0,,"Was artless, been nor come bower the it","['nutrition', 'headache']"
+1524.0,,And had in was fabled seraphs nor it beyond,"['qsurvey_positive', 'ok_thanks', 'survey_response', 'nutrition']"
+1525.0,2547911111,No Ideal I Was Breastfeeding,"['qsurvey_positive', 'breastfeeding', 'baby_condition']"
