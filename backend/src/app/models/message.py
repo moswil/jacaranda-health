@@ -1,8 +1,10 @@
 import enum
-
-from app import db
+from os import name
 
 from sqlalchemy import Enum
+
+from . import db
+from .base_model import BaseModel
 
 
 class MessageType(enum.Enum):
@@ -10,7 +12,7 @@ class MessageType(enum.Enum):
     OUTGOING = 'OUTGOING'
 
 
-class Message(db.Model):
+class Message(BaseModel):
     """Represents the Message model.
 
     Args:
@@ -24,7 +26,7 @@ class Message(db.Model):
     message_type = db.Column(Enum(MessageType))
     created = db.Column(db.DateTime(), nullable=False)
     updated = db.Column(db.DateTime(), nullable=False)
-    user_id = db.Column(db.Integer())
+    user_id = db.Column(db.Integer(), nullable=False)
 
     ticket_id = db.Column(db.Integer, db.ForeignKey(
         'tickets.ticket_id'), nullable=False)

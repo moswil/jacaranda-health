@@ -30,3 +30,6 @@ RUN pipenv install --skip-lock --dev --system
 
 # copy project
 COPY . /usr/src/app/
+
+# so as to run gunicorn --bind 0.0.0.0:5000 manage:app
+# WORKDIR /usr/src/app/src

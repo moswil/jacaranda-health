@@ -2,27 +2,35 @@ import os
 
 
 from flask import Flask
-from flask_marshmallow import Marshmallow
 from flask_migrate import Migrate
 from flask_restx import Api
-from flask_sqlalchemy import SQLAlchemy
 
-from app.utils.logger import get_logger
+from .models import db
+from .schema import ma
+from .utils.logger import get_logger
 
 LOGGER = get_logger()
 
 
 app = Flask(__name__)
-api = Api(app)
+rest_api = Api(app, version='0.0.1', title='Ticketing API',
+               description='A simple ticketing API',)
 
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config["SQLALCHEMY_DATABASE_URI"] = os.getenv('DATABASE_URL')
 
 LOGGER.info(f'DB_URL: {os.getenv("DATABASE_URL")}')
 
-db = SQLAlchemy(app)
-ma = Marshmallow(app)
+#
+db.init_app(app)
+
+# add routes
+from . import routes  # noqa
+
+ma.init_app(app)
 migrate = Migrate(app, db)
 
+
+# add models to enable migrations
 from app.models.message import Message  # noqa
 from app.models.ticket import Ticket  # noqa
