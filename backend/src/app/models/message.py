@@ -1,7 +1,7 @@
 import enum
 from os import name
 
-from sqlalchemy import Enum
+from sqlalchemy import Enum, BIGINT
 
 from . import db
 from .base_model import BaseModel
@@ -21,19 +21,19 @@ class Message(BaseModel):
 
     __tablename__ = 'messages'
 
-    id = db.Column(db.Integer(), primary_key=True)
-    description = db.Column(db.String(256), nullable=False)
+    id = db.Column(BIGINT(), primary_key=True)
+    message = db.Column(db.String(256), nullable=False)
     message_type = db.Column(Enum(MessageType))
     created = db.Column(db.DateTime(), nullable=False)
     updated = db.Column(db.DateTime(), nullable=False)
-    user_id = db.Column(db.Integer(), nullable=False)
+    user_id = db.Column(BIGINT(), nullable=False)
 
     ticket_id = db.Column(db.Integer, db.ForeignKey(
         'tickets.ticket_id'), nullable=False)
 
-    def __init__(self, id, description, message_type, created, updated, user_id, ticket_id) -> None:
+    def __init__(self, message_type, ticket_id, id, message, created, updated, user_id) -> None:
         self.id = id
-        self.description = description
+        self.message = message
         self.message_type = message_type
         self.created = created
         self.updated = updated
@@ -44,7 +44,7 @@ class Message(BaseModel):
         return (
             f"**Message** "
             f"message_id: {self.id} "
-            f"description: {self.description} "
+            f"message: {self.message} "
             f"message_type: {self.message_type}"
             f"user_id: {self.user_id}"
             f"**Message** "

@@ -29,6 +29,7 @@ pytest-black = "*"
 pytest-cov = "*"
 pytest-flake8 = "*"
 pytest-mypy = "*"
+flask-shell-ipython = "*"
 
 [requires]
 python_version = "3.9"
